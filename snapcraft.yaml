@@ -18,6 +18,7 @@ parts:
     plugin: nodejs
     node-packages:
       - node-red
+      - node-red-contrib-modbustcp
   settings:
     plugin: dump
     source: settings
